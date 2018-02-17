@@ -3834,7 +3834,7 @@
 											"height": 13,
 											"autoResize": false,
 											"underline": false,
-											"text": "Vechal",
+											"text": "Vehicle",
 											"horizontalAlignment": 2,
 											"verticalAlignment": 5
 										},
@@ -37583,7 +37583,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Vechal",
+					"name": "Vehicle",
 					"ownedElements": [
 						{
 							"_type": "UMLGeneralization",
